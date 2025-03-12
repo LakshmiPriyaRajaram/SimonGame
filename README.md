@@ -8,7 +8,15 @@
 ## 🛠 Tech Stack  
 - 🏗 **HTML** → Structure  
 - 🎨 **CSS** → Styling  
-- ⚡ **JavaScript** → Logic & interactivity  
+- ⚡ **JavaScript** → Logic & interactivity
+
+## 🤝 Contributing
+
+-Feel free to fork the repository and submit pull requests with improvements or additional features.
+
+## 📜 License
+
+This project is licensed under the MIT License.
 
 ## 🎮 How to Play  
 1️⃣ Watch the **sequence of colors & sounds** carefully.  
