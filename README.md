@@ -20,4 +20,4 @@
 
 ---
 
-📌 **[Play Now](https://LakshmiPriyaRajaram.github.io/simonGame/)** | ⭐ **Star this repo if you like it!**  
+📌 **[Play Now](https://lakshmipriyarajaram.github.io/SimonGame/)** | ⭐ **Star this repo if you like it!**  
